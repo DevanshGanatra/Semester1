@@ -1,4 +1,4 @@
-//print addition of 2 no. using scanf
+//print addition of 2 no. without using scanf
 #include<stdio.h>
 void main()
 {
