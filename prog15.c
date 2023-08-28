@@ -1,11 +1,11 @@
-//Perform Addition, Subtraction, Multiplication and Division of 2 numbers as per user’s choice. 
+//Perform Addition, Subtraction, Multiplication and Division of 2 numbers as per userâ€™s choice. 
 #include<stdio.h>
 void main()
 {
 	int choice;
 	float div,a,b,add,sub,mul;
 	printf("Enter the value of A and B :");
-	scanf("%d %d",&a,&b);
+	scanf("%f %f",&a,&b);
 	printf("1.addition 2.subtraction 3.multiplication 4.division\n");
 	printf("enter your choice");
 	scanf("%d",&choice);
